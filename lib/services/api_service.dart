@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import '../model/note_model.dart';
 
 class ApiService {
-  static const String baseUrl = "http://172.29.25.11:3000/notes";
+  static const String baseUrl = "http://10.0.2.2:3000/notes";
   Future<bool> uploadNote(Note note) async {
     try {
       final response = await http.post(
