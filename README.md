@@ -1,16 +1,38 @@
-# note_app
+Note App
 
-A new Flutter project.
+A Flutter-based Note App with offline storage and synchronization support.
 
-## Getting Started
+Getting Started
 
-This project is a starting point for a Flutter application.
+This project uses a Mock Server (JSON Server) for testing API functionality.
 
-A few resources to get you started if this is your first Flutter project:
+1. Install JSON Server
+npm install -g json-server
+2. Start the Mock Server
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Navigate to the mockServer folder and run:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+json-server --watch db.json --port 3000
+3. Configure the API URL
+
+If you are running the app on a physical mobile device, update the API base URL with your computer's local IP address.
+
+Example:
+
+http://192.168.1.100:3000
+
+Replace 192.168.1.100 with your laptop's actual IP address.
+
+If you are using an Android Emulator, you can use the default emulator IP:
+
+http://10.0.2.2:3000
+4. Run the Flutter App
+flutter pub get
+flutter run
+Features
+Create, update, and delete notes
+Offline data storage
+Data synchronization
+Mock API integration using JSON Server
+State management with Riverpod
+Local database using Hive
