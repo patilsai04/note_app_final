@@ -1,0 +1,173 @@
+{
+  "notes": [
+    {
+      "id": "f3zZa6VdaOY",
+      "title": "Food",
+      "body": "rice",
+      "updatedAt": "2026-06-14T13:48:50.221",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "lQe4QKwhCuY",
+      "title": "Food",
+      "body": "rice",
+      "updatedAt": "2026-06-14T21:45:06.125",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "P9oANFNBjeI",
+      "title": "Gym",
+      "body": "fruits ",
+      "updatedAt": "2026-06-14T23:38:58.787",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "QniQiRBov1w",
+      "title": "hhhh",
+      "body": "bvv",
+      "updatedAt": "2026-06-14T23:56:32.819904",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "0J15sVhDqew",
+      "title": "hgg",
+      "body": "ttgg",
+      "updatedAt": "2026-06-14T23:56:45.508346",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "Llo6sbzswj8",
+      "title": "hgg",
+      "body": "tt",
+      "updatedAt": "2026-06-14T23:57:11.217111",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "Kvn4b5Gh9Y0",
+      "title": "Grosary",
+      "body": "Buy milk",
+      "updatedAt": "2026-06-15T00:11:33.133469",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "kzdNio4MxLA",
+      "title": "Grosary",
+      "body": "Buy milk and something else ",
+      "updatedAt": "2026-06-15T00:11:59.528667",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "P6gPV7z0dYs",
+      "title": "hindi",
+      "body": "hahah",
+      "updatedAt": "2026-06-15T00:12:30.630949",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "bFp4J7XirIE",
+      "title": "vsvsbb",
+      "body": "nsnsn",
+      "updatedAt": "2026-06-15T00:12:54.187443",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "k_xH2NWSW48",
+      "title": "fffc",
+      "body": "vbb",
+      "updatedAt": "2026-06-15T00:16:52.905",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "JeJk4tsrkQ0",
+      "title": "ttg",
+      "body": "ggg",
+      "updatedAt": "2026-06-15T00:19:39.800304",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "FlXdPAFrp8E",
+      "title": "fff",
+      "body": "fgg",
+      "updatedAt": "2026-06-15T00:19:47.808343",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "uJMUfuK81WU",
+      "title": "School",
+      "body": "Buy book and pen",
+      "updatedAt": "2026-06-15T00:25:22.233695",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "Etgs65bTfwM",
+      "title": "School",
+      "body": "Buy a notebooks and pen.",
+      "updatedAt": "2026-06-15T00:27:32.988893",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "XZMU1IuA9Fg",
+      "title": "School",
+      "body": "Buy a notebook",
+      "updatedAt": "2026-06-15T00:28:15.833317",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "M6BN8VpVokg",
+      "title": "School",
+      "body": "Buy a notebooks and pen.",
+      "updatedAt": "2026-06-15T00:29:05.015424",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "LMdExwef8Mk",
+      "title": "hh",
+      "body": "bbb",
+      "updatedAt": "2026-06-15T00:31:20.559429",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "G8kLb049zzQ",
+      "title": "yyww",
+      "body": "bsbs",
+      "updatedAt": "2026-06-15T00:29:37.032652",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "SZWCkij09Wg",
+      "title": "School",
+      "body": "Buy a Notebook and pen",
+      "updatedAt": "2026-06-15T00:32:01.069410",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    },
+    {
+      "id": "zrpO-EZDOos",
+      "title": "School",
+      "body": "Buy a notebook and pen.",
+      "updatedAt": "2026-06-15T00:33:10.931953",
+      "syncStatus": "pendingSync",
+      "isDeleted": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
